@@ -1,4 +1,10 @@
+# React の Render Props と HOC の検証用
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+
+## 概要
+
+React の公式ドキュメントにある設計手法で、HOC と Render Props を実装してみて、違いを把握する
 
 ## Getting Started
 
